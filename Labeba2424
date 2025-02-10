@@ -1,0 +1,7 @@
+   public class GameController : MonoBehaviour
+   {
+       public int plata = 0;
+
+       // Otros métodos y variables
+   }
+   
